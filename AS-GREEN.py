@@ -1,0 +1,6 @@
+#ENCRYPT BY TALHA ISLAM
+#YOUTUBE BY TALHA TECHNOLOGY CHANNEL
+#FACEBOOK : TERMUX TEACHER TALHA
+#Github : https://github.com/TermuxTalha
+import marshal,zlib,base64
+exec(marshal.loads(zlib.decompress(base64.b64decode("eJxNUMtKA0EQrNnsbhJf8XkQPOS4IIinnELwkHMuoqASQXaG2CHvjJBDAurGg36B4MGDfqCfYPcYk1mmu6Zmiq6aTbH4ilxnXOMrbhpoA0bBBGj90Ry0QqZQbx7jOoSJFiIdYM7SUBQZUM+citdtgOERskD2Oofwgtt5EvJ0K37jgFu5nCoG2UZcqZwbblOgeYOZEimtiRObV9iKZ1R0CB0xxNB5hgJ0kYFV6wwb0JsMW9Alhm3oHYZd6D1UpgqHnOVSDfkt+5zlgJ3IZZFUP5/vj5Tz2BPFHnsm5bGMAo/NKfTYC+U99koFj71R0WMfFK3Y91cjEQvrMthRIg5W2smplQtKJGuy/Hm6NZZh1ZbpmclgVMv/X8RoJBLdyuB2n3puZPdu4DC9H1lnO+iQdYMn7pxlKwPfxcoDqt2+fuiY2vJpJRWrX2GoYXI="))))
